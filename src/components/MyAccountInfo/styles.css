@@ -1,0 +1,10 @@
+.userimage{
+    width: 55%;
+    aspect-ratio: 1/1;
+}
+.imgusercontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
